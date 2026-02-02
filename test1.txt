@@ -1,1 +1,2 @@
 This is my first git page
+Git is a version control tool
